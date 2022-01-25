@@ -14,8 +14,8 @@
   <description>HTML utility classes voor dOOS Applicaties.</description>
   <inceptionYear>2008</inceptionYear>
   <scm>
-    <developerConnection>scm:git:ssh://ptah.debooy.eu/srv/local/devops/git/debooy/DoosUtilsHtml.git</developerConnection>
-    <connection>scm:git:ssh://ptah.debooy.eu/srv/local/devops/git/debooy/DoosUtilsHtml.git</connection>
+    <developerConnection>scm:git:ssh://ptah.debooy.eu/srv/local/devops/git/debooy/DoosUtilsHTML.git</developerConnection>
+    <connection>scm:git:ssh://ptah.debooy.eu/srv/local/devops/git/debooy/DoosUtilsHTML.git</connection>
   </scm>
 
   <developers>

@@ -24,7 +24,7 @@ public final class Utilities {
   private Utilities() {}
 
   public static String kwart(Double value) {
-    String[]  displayString = {"", "&frac14;", "&frac12;", "&frac34;"};
+    var displayString = new String[]{"", "&frac14;", "&frac12;", "&frac34;"};
 
     return displayString[(int)((value - value.intValue()) * 4)];
   }

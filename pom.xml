@@ -9,13 +9,14 @@
   <groupId>eu.debooy.doosutils</groupId>
   <artifactId>doosutils-html</artifactId>
   <packaging>jar</packaging>
-  <version>1.3.2-SNAPSHOT</version>
+  <version>1.3.2</version>
   <name>Utility classes voor dOOS Applicaties (HTML)</name>
   <description>HTML utility classes voor dOOS Applicaties.</description>
   <inceptionYear>2008</inceptionYear>
   <scm>
     <developerConnection>scm:git:ssh://ptah.debooy.eu/srv/local/devops/git/debooy/DoosUtilsHTML.git</developerConnection>
     <connection>scm:git:ssh://ptah.debooy.eu/srv/local/devops/git/debooy/DoosUtilsHTML.git</connection>
+    <tag>doosutils-html-1.3.2</tag>
   </scm>
 
   <developers>
